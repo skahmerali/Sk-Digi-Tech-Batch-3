@@ -1,0 +1,18 @@
+ul li{
+display: inline-block;
+background-color: rgb(181, 157, 203);
+
+
+text-align: center;
+
+margin: 20px;
+
+
+}
+ul{
+
+    position: fixed;
+    top: 20px;
+    left: 100px;
+
+}
